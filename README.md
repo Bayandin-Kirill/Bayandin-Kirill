@@ -1,7 +1,7 @@
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"/>
+   <img src="https://media.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Bayandin-Kirill&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
