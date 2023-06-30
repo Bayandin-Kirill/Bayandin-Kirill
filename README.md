@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Bayandin-Kirill&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
-  hey there
+  hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -14,7 +14,7 @@
 </div>
 
 ### :man_technologist: About Me :
-My name is Kirill
+Junior developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
