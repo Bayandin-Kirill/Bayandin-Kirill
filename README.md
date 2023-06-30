@@ -1,5 +1,7 @@
+<div id="header" align="center">
 ### Hi there 👋
-
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=Bayandin-Kirill&style=flat-square&color=blue" alt=""/>
 <!--
 **Bayandin-Kirill/Bayandin-Kirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
