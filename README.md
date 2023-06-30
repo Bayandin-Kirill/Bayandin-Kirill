@@ -1,11 +1,30 @@
 <div id="header" align="center">
+   <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" width="100"/>
+</div>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=Bayandin-Kirill&style=flat-square&color=blue" alt=""/>
+</div>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="600" height="300"/>
+</div>
+---
+### :man_technologist: About Me :
+
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="VScode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="arduino" width="40" height="40"/>&nbsp;
+</div>
 <!--
 **Bayandin-Kirill/Bayandin-Kirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
