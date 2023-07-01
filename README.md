@@ -15,8 +15,8 @@
 
 ### :man_technologist: About Me :
 Junior developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
--:speech_balloon: Any questions? write to the email: bayandin.kirill123@gmail.com
--:handshake: I am always ready to discuss your suggestions
+- :speech_balloon: Any questions? write to the email: [![Linkedin Badge](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwCqRpJbgfQFtvsknnsxSSGSdZrkRhcTqWZXxgKnCJnPqbDkxmSnkQRXPzbkzMPSZlvrXr)](your-linkedin-url)
+- :handshake: I am always ready to discuss your suggestions
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
